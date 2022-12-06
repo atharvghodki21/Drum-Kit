@@ -10,6 +10,6 @@ Below is the video link for the reference that how this Drum Kit works.
 <br>
 
 
-https://user-images.githubusercontent.com/77673095/206006686-826b3972-5a16-4028-9074-2d2f84ff22bd.mp4
+<!-- https://user-images.githubusercontent.com/77673095/206006686-826b3972-5a16-4028-9074-2d2f84ff22bd.mp4 -->
 <br>
 Sorry, I am not so good at Drumming. 🤧
